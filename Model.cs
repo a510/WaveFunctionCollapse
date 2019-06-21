@@ -10,7 +10,7 @@ using System;
 
 abstract class Model
 {
-	protected bool[][] wave;
+	protected bool[][] wave; 
 
 	protected int[][][] propagator;
 	int[][][] compatible;
